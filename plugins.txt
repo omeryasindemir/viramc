@@ -1,0 +1,7 @@
+1. Auth []
+2. Tpa []
+3. Sethome []
+4. Claim []
+5. Clan []
+6. Shop (Ah/Villager) []
+7. Perms []
